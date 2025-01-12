@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enthusiastic machine learning engineer dedicated to advancing AI technologies.<br> I enjoy building innovative projects, sharing knowledge, and collaborating with others to solve real-world problems through data-driven solutions.<br> Let's connect!🚀 #Code #Collaboration<br><br>Talking about Personal Stuff:<br>👨‍🎓 I'm a Software Engineering, AI&ML Student.<br>🔭'm the Community Member at DeepLearning.ai<br>💬 Ask me about anything, I am happy to help<br>✍ I'm currently learning:<br>          -->Data Structures and Algorithms <br>          -->Machine Learning<br>          -->Web Development<br>👯How to reach me: adityad311003@gmail.com
+Enthusiastic machine learning engineer dedicated to advancing AI technologies.<br> I enjoy building innovative projects, sharing knowledge, and collaborating with others to solve real-world problems through data-driven solutions.<br> Let's connect!🚀 #Code #Collaboration<br><br>Talking about Personal Stuff:<br>👨‍🎓 I'm a Software Engineering, AI&ML Student.<br>🔭'm the Community Member at DeepLearning.ai<br>💬 Ask me about anything, I am happy to help<br>✍ I'm currently learning:<br>          -->Data Structures and Algorithms <br>          -->Machine Learning<br>          -->Web Development<br>👯How to reach me: adityad311003@gmail.com 
 
 
 ## 🌐 Socials:
