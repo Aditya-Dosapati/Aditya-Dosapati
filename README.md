@@ -20,7 +20,6 @@ Enthusiastic machine learning engineer dedicated to advancing AI technologies.<b
 <img align="right" width="%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Dosapati&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
----
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
