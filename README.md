@@ -1,5 +1,8 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Aditya%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20|%20AI%20Enthusiast%20|%20Full%20Stack%20Developer&descSize=16&descColor=ffffff&descAlignY=55" width="100%" />
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/74038190?v=4" width="130" style="border-radius:50%"/>
+</div>
 
 <div align="center">
 
@@ -7,20 +10,8 @@
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+---
 
-<div align="center">
-  <img src="https://github.com/Aditya-Dosapati/Aditya-Dosapati/assets/74038190/7e2e7e7e-7e7e-7e7e-7e7e-7e7e7e7e7e7e" width="80" alt="avatar" style="border-radius: 50%; box-shadow: 0 4px 32px 0 rgba(106,211,247,0.25); margin-bottom: 10px;"/>
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/AI%20%26%20ML%20Enthusiast-6AD3F7?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Dev-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Open%20Source-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
-
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
@@ -35,33 +26,47 @@
 - ✍ Currently learning:
   - → Data Structures and Algorithms
   - → Machine Learning
-  - → Web Development
-- 📫 Reach me at: **adityad311003@gmail.com**
-
-&nbsp;
+  - → Full Stack Development
+- 📫 Reach me at: **aditya.dosapati03@gmail.com**
 
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<h2 align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,dart,html,css,nodejs,django,mysql,git,github,gitlab,figma,canva,blender,unrealengine" height="48"/>
-</div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 🏆 GitHub Trophies
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Aditya-Dosapati&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+### 🔤 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+### 🗄️ Database & Version Control
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 </div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya-Dosapati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
@@ -94,18 +99,13 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
 
-<a href="https://github.com/Aditya-Dosapati/YOUR-REPO-1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Dosapati&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/Aditya-Dosapati/YOUR-REPO-2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Dosapati&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
+- [Quantum-Assisted-Pattern-Matching](https://github.com/Aditya-Dosapati/Quantum-Assisted-Pattern-Matching)
+- [VidhyaVaaradhi](https://github.com/Aditya-Dosapati/VidhyaVaaradhi)
 
 </div>
 
-> 💡 *Replace `YOUR-REPO-1` and `YOUR-REPO-2` with your actual repository names*
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -119,9 +119,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya-Dosapati)
 
 </div>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 ## 🎯 Interests
