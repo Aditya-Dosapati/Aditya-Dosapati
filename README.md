@@ -83,20 +83,6 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-Dosapati/Aditya-Dosapati/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya-Dosapati/Aditya-Dosapati/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Aditya-Dosapati/Aditya-Dosapati/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 ## 🚀 Featured Projects
 
 <div align="left">
@@ -158,5 +144,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
-
-
