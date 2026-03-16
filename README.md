@@ -14,23 +14,16 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 > *Enthusiastic machine learning engineer dedicated to advancing AI technologies. I enjoy building innovative projects, sharing knowledge, and collaborating with others to solve real-world problems through data-driven solutions.*
 
 &nbsp;
-
 - 👨‍🎓 **Software Engineering, AI & ML Student**
-- 🔭 **Community Member** at [DeepLearning.ai](https://www.deeplearning.ai/)
-- 💬 Ask me about anything — I'm happy to help!
-- ✍ Currently learning:
-  - → Data Structures and Algorithms
-  - → Machine Learning
-  - → Full Stack Development
-- 📫 Reach me at: **aditya.dosapati03@gmail.com**
-
-
-
+- 🚀 **Open to collaboration and knowledge sharing**
+- 🧠 **Lifelong learner, curious about new tech trends**
+- 🎨 **Designing intuitive user experiences**
+- 🏆 **Hackathon participant and coding challenge enthusiast**
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
@@ -65,11 +58,13 @@
 
 </div>
 
+---
+
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya-Dosapati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Aditya-Dosapati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
   <img width="49%" src="https://streak-stats.demolab.com/?user=Aditya-Dosapati&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
@@ -92,8 +87,16 @@
 
 </div>
 
+--- 
+### 🔝 Top Contributed Repo
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=Aditya-Dosapati&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -106,6 +109,8 @@
 
 </div>
 
+---
+
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 ## 🎯 Interests
 
@@ -117,20 +122,11 @@
 - ☕ Coffee & late-night coding
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+---
 ### ✍️ Random Dev Quote
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Aditya-Dosapati&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+  <img width="80%"src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
 ---
