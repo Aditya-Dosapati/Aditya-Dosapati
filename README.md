@@ -14,7 +14,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 > *Enthusiastic machine learning engineer dedicated to advancing AI technologies. I enjoy building innovative projects, sharing knowledge, and collaborating with others to solve real-world problems through data-driven solutions.*
 
